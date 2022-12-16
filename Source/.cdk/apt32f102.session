@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_13\Source\apt32f102.cdkws">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="D:\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_13\Source\apt32f102.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_13\Source\main.c" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="39" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_13\Source\include\apt32f102_tkey.h" Name="FileName"/>
+      <int Value="160" Name="FirstVisibleLine"/>
+      <int Value="164" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_13\Source\apt32f102_initial.c" Name="FileName"/>
+      <int Value="509" Name="FirstVisibleLine"/>
+      <int Value="534" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
