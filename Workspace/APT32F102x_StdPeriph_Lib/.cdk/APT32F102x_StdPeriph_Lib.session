@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_15\Workspace\APT32F102x_StdPeriph_Lib\APT32F102x_StdPeriph_Lib.cdkws">
-  <int Value="2" Name="m_selectedTab"/>
+  <int Value="3" Name="m_selectedTab"/>
   <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_15\Workspace\APT32F102x_StdPeriph_Lib\APT32F102x_StdPeriph_Lib.cdkws" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\APT32F102x_StdPeriph_Lib_V1_15\Source\main.c" Name="FileName"/>
       <wxString Value="apt32f102" Name="ProjectName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="11" Name="FirstVisibleLine"/>
       <int Value="51" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -24,6 +24,14 @@
       <wxString Value="apt32f102" Name="ProjectName"/>
       <int Value="34" Name="FirstVisibleLine"/>
       <int Value="46" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OneDrive\Works\Work Storage\Project\MCU\APT32F102\APT32F102_Lib\LIB_Release\git\APT32F102_std\DemoExample.xml" Name="FileName"/>
+      <wxString Value="" Name="ProjectName"/>
+      <int Value="42" Name="FirstVisibleLine"/>
+      <int Value="69" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
